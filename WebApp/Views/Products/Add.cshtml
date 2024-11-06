@@ -1,0 +1,55 @@
+﻿@model ProductViewModel
+@section title{
+	<h3>Add Product</h3>
+}
+<form method="post" asp-controller="Products" asp-action="Add">
+	<div class="text-danger " asp-validation-summary="All"></div>
+	<div class="row mb-3">
+		<div class="col-2">
+			<label asp-for="Product.CategoryId" class="col-form-label">
+				Category
+			</label>
+		</div>
+		<div class="col-6">
+			<select class="form-select" asp-for="Product.CategoryId">
+				<option>--Please Select--</option>
+				@if (Model.Categories != null && Model.Categories.Count() > 0)
+				{
+					@foreach (var category in Model.Categories)
+					{
+						<option value=@category.CategoryId>@category.Name</option>
+					}
+				}
+			</select>
+		</div>
+	</div>	<div class="row mb-3">
+		<div class="text-danger " asp-validation-summary="All"></div>
+		<div class="col-2">
+			<label asp-for="Product.Name" class="col-form-label">
+				Product Name
+			</label>
+		</div>
+		<div class="col-6">
+			<input type="text" asp-for="Product.Name
+" class="form-control" />
+		</div>
+	</div>
+	<div class="row mb-3">
+		<div class="col-2">
+			<label asp-for="Product.Price" class="col-form-label">
+			</label>
+		</div>
+		<div class="col-6">
+			<input type="number" asp-for="Product.Price" class="form-control" min="0" step="any" />
+		</div>
+	</div>	<div class="row mb-3">
+		<div class="col-2">
+			<label asp-for="Product.Quantity" class="col-form-label">
+			</label>
+		</div>
+		<div class="col-6">
+			<input type="number" asp-for="Product.Quantity" class="form-control" min="1" />
+		</div>
+	</div>
+	<input type="submit" class="btn btn-primary" value="Add" />
+</form>

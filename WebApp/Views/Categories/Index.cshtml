@@ -1,0 +1,37 @@
+﻿@model List<CoreBusiness.Category>
+
+@section title{
+	<h3>Categories</h3>
+}
+@if(Model!=null && Model.Count() >0)
+{
+	<table class="table table-striped table-responsive">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var category in Model)
+			{
+				<tr>
+					<td>@category.Name</td>
+					<td>@category.Description</td>
+					<td><a class="btn btn-link" asp-controller="Categories" asp-action="Edit" asp-route-id="@category.CategoryId">Edit</a></td>
+					<td><a class="btn btn-link" asp-controller="Categories" asp-action="Delete" asp-route-id="@category.CategoryId" onclick="return ConfirmDelete()">Delete</a></td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	
+}
+<a class="btn btn-primary my-3" asp-controller="Categories" asp-action="Add">Add</a>
+@section Scripts{
+	<script>
+		function ConfirmDelete(){
+			return confirm("Are you sure you want to delete this?");
+		}
+	</script>
+}

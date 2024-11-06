@@ -1,0 +1,100 @@
+﻿@model SaleViewModel
+@{
+	ViewData["title"] = "Cashier Console";
+}
+@section title{
+<div class="row">
+	<div class="col-7">
+		<h3>Cashier's Console</h3>
+	</div>
+	<div class="col-2">
+		<label for="Cashier">Cashier Name:</label>
+	</div>
+	<div class="col-3">
+		@User?.Identity?.Name
+	</div>
+</div>
+
+}
+<br />
+
+<div class="row">
+	<div class="col-4">
+		<div class="text-danger " asp-validation-summary="All"></div>
+		@* category Section *@
+		<br />
+		<select class="form-select" asp-for="SelectedCategoryId">
+			<option selected>--Select Category--</option>
+			@if(Model.Categories!=null && Model.Categories.Count() > 0)
+			{
+				foreach(var cat in Model.Categories)
+				{
+				<option value=@cat.CategoryId>@cat.Name</option>
+				}
+			}
+		</select>
+		<div id="productsPartial">
+		@* Product List *@
+		</div>
+		<br />
+
+		<div id="SaleDetailsPartial">
+			@* Product Details*@
+
+		</div>
+		@*sales form*@
+		<form method="post" asp-controller="Sales" asp-action="Sell" id="SaleForm">
+		<input type="hidden" asp-for="SelectedProductId"/>
+			<div class="form-group">
+				
+				<label asp-for="QuantityToSell"></label>
+				<input type="number" asp-for="QuantityToSell" class="form-control" min="1"/>
+				<span class="text-danger my-2" asp-validation-for="QuantityToSell"></span>
+			</div>
+			<div class="form-group">
+			<input class="btn btn-primary my-3" value="Submit" type="submit"/>
+			</div>
+		</form>
+	</div>
+	<div class="col">
+		@* List of transaction *@
+		@await Component.InvokeAsync("Transaction","Cashier1")
+	</div>
+</div>
+@section Scripts{
+	<script>
+		$(function () {
+				
+				$("#SaleForm").hide();
+				$("#QuantityToSell").val("");
+
+			var SelectedCategoyId = $("#SelectedCategoryId").val();
+			if (SelectedCategoyId > 0) {
+				loadCategory(SelectedCategoyId)
+			}
+
+				$("#SelectedCategoryId").on("change", function () {
+				loadCategory($(this).val())
+				});
+			$('#productsPartial').on('click', '.product-row', function () {
+				$(".product-row").removeClass('highlight');
+				$(this).addClass('highlight');
+				var productId = $(this).attr('product-id');
+				$("#SaleDetailsPartial").load("/Sales/SellProductPartial", { productId: productId })
+				if (productId > 0) {
+					$("#SelectedProductId").val(productId);
+					$("#SaleForm").show();
+				}
+				else {
+					$("#SelectedProductId").val("");
+					$("#SaleForm").hide();
+				}
+			});
+		});
+		function loadCategory(categoryId) {
+			$("#productsPartial").load("/Sales/ProductByCategoryIdPartial", { CategoryId: categoryId })
+			$("#SaleDetailsPartial").html("");
+			$("#SaleForm").hide()
+		}
+	</script>
+}

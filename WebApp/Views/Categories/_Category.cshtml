@@ -1,0 +1,39 @@
+﻿@model CoreBusiness.Category
+@{
+	string action = ViewBag.Action ?? string.Empty;
+}
+
+<form method="post" asp-controller="Categories" asp-action="@action">
+	@if(action=="Edit")
+	{
+		<input asp-for="CategoryId" type="hidden" />
+	}
+	<div class="row mb-3">
+		<div class="text-danger " asp-validation-summary="All"></div>
+		<div class="col-2">
+			<label asp-for="Name" class="col-form-label">
+			</label>
+		</div>
+		<div class="col-6">
+			<input type="text" asp-for="Name" class="form-control" />
+			<span class="text-danger" asp-validation-for="Name"></span>
+		</div>
+	</div>
+	<div class="row mb-3">
+		<div class="col-2">
+			<label asp-for="Description" class="col-form-label">
+			</label>
+		</div>
+		<div class="col-6">
+			<input type="text" asp-for="Description" class="form-control" />
+		</div>
+	</div>
+	@if (action == "Edit")
+	{
+		<input type="submit" class="btn btn-primary mt-3" value="Save" />
+	}
+	else
+	{
+		<input type="submit" class="btn btn-primary mt-3" value="Add" />
+	}
+</form>

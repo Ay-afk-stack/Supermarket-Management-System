@@ -1,0 +1,1293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.sql\\marketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|solutionrelative:plugins\\plugins.datastore.sql\\marketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.sql\\migrations\\20240424043258_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|solutionrelative:plugins\\plugins.datastore.sql\\migrations\\20240424043258_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\viewmodels\\saleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\saleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\viewmodels\\transactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\transactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.sql\\productsqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|solutionrelative:plugins\\plugins.datastore.sql\\productsqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.sql\\transactionsqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|solutionrelative:plugins\\plugins.datastore.sql\\transactionsqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.sql\\categorysqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|solutionrelative:plugins\\plugins.datastore.sql\\categorysqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.sql\\plugins.datastore.sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{23E31812-75C1-4328-8807-0C214DB2A817}|Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|solutionrelative:plugins\\plugins.datastore.sql\\plugins.datastore.sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CAFF49-6F36-4A53-8097-F1E05C038B4C}|Plugins\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.inmemory\\transactioninmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CAFF49-6F36-4A53-8097-F1E05C038B4C}|Plugins\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj|solutionrelative:plugins\\plugins.datastore.inmemory\\transactioninmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CAFF49-6F36-4A53-8097-F1E05C038B4C}|Plugins\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.inmemory\\productsinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CAFF49-6F36-4A53-8097-F1E05C038B4C}|Plugins\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj|solutionrelative:plugins\\plugins.datastore.inmemory\\productsinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CAFF49-6F36-4A53-8097-F1E05C038B4C}|Plugins\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\plugins\\plugins.datastore.inmemory\\categoriesinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CAFF49-6F36-4A53-8097-F1E05C038B4C}|Plugins\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj|solutionrelative:plugins\\plugins.datastore.inmemory\\categoriesinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\corebusiness\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|solutionrelative:corebusiness\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\sales\\_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\sales\\_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\sales\\_sellproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\sales\\_sellproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\datastorepluginsinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\datastorepluginsinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\productsusecases\\viewproductincategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\viewproductincategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\shared\\components\\transaction\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\components\\transaction\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\corebusiness\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|solutionrelative:corebusiness\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\corebusiness\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|solutionrelative:corebusiness\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\viewmodels\\validations\\saleviewmodel_ensureproperquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\validations\\saleviewmodel_ensureproperquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\viewcomponents\\transactionviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewcomponents\\transactionviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\transactionusecases\\gettodaytransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\transactionusecases\\gettodaytransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\datastorepluginsinterfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\datastorepluginsinterfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\transactionusecases\\searchtransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\transactionusecases\\searchtransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\models\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\transactionusecases\\recordtransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\transactionusecases\\recordtransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\productsusecases\\sellproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\sellproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\datastorepluginsinterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\datastorepluginsinterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\interfaces\\ideleteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\interfaces\\ideleteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\corebusiness\\corebusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05095F5D-B3BC-4406-B688-706035CB193E}|CoreBusiness\\CoreBusiness.csproj|solutionrelative:corebusiness\\corebusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\productsusecases\\viewselectedproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\viewselectedproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\productsusecases\\viewproductsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\viewproductsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\productsusecases\\editproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\editproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\productsusecases\\addproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\addproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\productsusecases\\deleteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\deleteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\categoriesusecases\\viewcategoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\categoriesusecases\\viewcategoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\interfaces\\iviewcategoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\interfaces\\iviewcategoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\categoriesusecases\\viewselectedcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\categoriesusecases\\viewselectedcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\interfaces\\ieditcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\interfaces\\ieditcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\interfaces\\iviewselectedcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\interfaces\\iviewselectedcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\categoriesusecases\\deletecategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\categoriesusecases\\deletecategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\categoriesusecases\\addcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\categoriesusecases\\addcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\categoriesusecases\\editcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\categoriesusecases\\editcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\usecases\\interfaces\\iaddcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC19B90-193D-4ECB-BFB9-8EB52821E2A8}|UseCases\\UseCases.csproj|solutionrelative:usecases\\interfaces\\iaddcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|c:\\users\\pakhr\\onedrive\\desktop\\mvccourse\\supermarketmanagement\\webapp\\migrations\\20240424071349_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0143DAD-2455-406A-8533-D5AF10414E27}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20240424071349_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240424071349_InitIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Migrations\\20240424071349_InitIdentity.cs",
+              "RelativeDocumentMoniker": "WebApp\\Migrations\\20240424071349_InitIdentity.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Migrations\\20240424071349_InitIdentity.cs",
+              "RelativeToolTip": "WebApp\\Migrations\\20240424071349_InitIdentity.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:13:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:09:44.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:29:08.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:00:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:00:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:40:17.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:52:19.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:51:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:22:37.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:40:10.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:32:23.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:28:06.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:26:56.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:52:25.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:09:46.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-24T07:07:28.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240424043258_init.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\Migrations\\20240424043258_init.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.SQL\\Migrations\\20240424043258_init.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\Migrations\\20240424043258_init.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.SQL\\Migrations\\20240424043258_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:32:59.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T06:55:00.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "WebApp\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T07:03:51.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\SaleViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\SaleViewModel.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\SaleViewModel.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\SaleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:59:52.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\TransactionViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\TransactionViewModel.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\TransactionViewModel.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\TransactionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:54:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarketContext.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\MarketContext.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.SQL\\MarketContext.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\MarketContext.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.SQL\\MarketContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:37:20.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductSQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\ProductSQLRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.SQL\\ProductSQLRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\ProductSQLRepository.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.SQL\\ProductSQLRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwCwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:29:46.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T03:50:14.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Plugins.DataStore.SQL.csproj",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T06:29:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T07:38:15.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TransactionSQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\TransactionSQLRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.SQL\\TransactionSQLRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\TransactionSQLRepository.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.SQL\\TransactionSQLRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDcAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:32:25.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:04:02.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategorySQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\CategorySQLRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.SQL\\CategorySQLRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.SQL\\CategorySQLRepository.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.SQL\\CategorySQLRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:34:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\appsettings.Development.json",
+              "RelativeToolTip": "WebApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T06:54:53.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductsInMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.InMemory\\ProductsInMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.InMemory\\ProductsInMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.InMemory\\ProductsInMemoryRepository.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.InMemory\\ProductsInMemoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:51:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\Category.cs",
+              "RelativeDocumentMoniker": "CoreBusiness\\Category.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\Category.cs",
+              "RelativeToolTip": "CoreBusiness\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:52:20.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoriesInMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.InMemory\\CategoriesInMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.InMemory\\CategoriesInMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.InMemory\\CategoriesInMemoryRepository.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.InMemory\\CategoriesInMemoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:16:03.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Sales\\_Products.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Sales\\_Products.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Sales\\_Products.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Sales\\_Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:56:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionInMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.InMemory\\TransactionInMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.DataStore.InMemory\\TransactionInMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\Plugins\\Plugins.DataStore.InMemory\\TransactionInMemoryRepository.cs",
+              "RelativeToolTip": "Plugins\\Plugins.DataStore.InMemory\\TransactionInMemoryRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:41:25.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_SellProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Sales\\_SellProducts.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Sales\\_SellProducts.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Sales\\_SellProducts.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Sales\\_SellProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:22:36.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\DataStorePluginsInterfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "UseCases\\DataStorePluginsInterfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\DataStorePluginsInterfaces\\IProductRepository.cs",
+              "RelativeToolTip": "UseCases\\DataStorePluginsInterfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:32:24.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ViewProductInCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\ViewProductInCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\ViewProductInCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\ViewProductInCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\ViewProductInCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:47:39.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Shared\\Components\\Transaction\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Components\\Transaction\\Default.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Shared\\Components\\Transaction\\Default.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\Components\\Transaction\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:42:05.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T08:01:44.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\Product.cs",
+              "RelativeDocumentMoniker": "CoreBusiness\\Product.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\Product.cs",
+              "RelativeToolTip": "CoreBusiness\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:52:21.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\Transaction.cs",
+              "RelativeDocumentMoniker": "CoreBusiness\\Transaction.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\Transaction.cs",
+              "RelativeToolTip": "CoreBusiness\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:52:22.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SaleViewModel_EnsureProperQuantity.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\Validations\\SaleViewModel_EnsureProperQuantity.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\Validations\\SaleViewModel_EnsureProperQuantity.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewModels\\Validations\\SaleViewModel_EnsureProperQuantity.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\Validations\\SaleViewModel_EnsureProperQuantity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:40:00.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TransactionViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewComponents\\TransactionViewComponent.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewComponents\\TransactionViewComponent.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\ViewComponents\\TransactionViewComponent.cs",
+              "RelativeToolTip": "WebApp\\ViewComponents\\TransactionViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:22:01.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetTodayTransactionUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\TransactionUseCases\\GetTodayTransactionUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\TransactionUseCases\\GetTodayTransactionUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\TransactionUseCases\\GetTodayTransactionUseCase.cs",
+              "RelativeToolTip": "UseCases\\TransactionUseCases\\GetTodayTransactionUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:23:43.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\DataStorePluginsInterfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "UseCases\\DataStorePluginsInterfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\DataStorePluginsInterfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "UseCases\\DataStorePluginsInterfaces\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:27:14.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\TransactionRepository.cs",
+              "RelativeToolTip": "WebApp\\Models\\TransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:48:35.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SearchTransactionUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\TransactionUseCases\\SearchTransactionUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\TransactionUseCases\\SearchTransactionUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\TransactionUseCases\\SearchTransactionUseCase.cs",
+              "RelativeToolTip": "UseCases\\TransactionUseCases\\SearchTransactionUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:35:25.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RecordTransactionUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\TransactionUseCases\\RecordTransactionUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\TransactionUseCases\\RecordTransactionUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\TransactionUseCases\\RecordTransactionUseCase.cs",
+              "RelativeToolTip": "UseCases\\TransactionUseCases\\RecordTransactionUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:29:12.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SellProductUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\SellProductUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\SellProductUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\SellProductUseCase.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\SellProductUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:21:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\DataStorePluginsInterfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "UseCases\\DataStorePluginsInterfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\DataStorePluginsInterfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "UseCases\\DataStorePluginsInterfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:57:51.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IDeleteProduct.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IDeleteProduct.cs",
+              "RelativeDocumentMoniker": "UseCases\\Interfaces\\IDeleteProduct.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IDeleteProduct.cs",
+              "RelativeToolTip": "UseCases\\Interfaces\\IDeleteProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:33:32.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:58:33.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Products\\Add.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Products\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:56:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:56:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T08:01:43.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CoreBusiness.csproj",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\CoreBusiness.csproj",
+              "RelativeDocumentMoniker": "CoreBusiness\\CoreBusiness.csproj",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\CoreBusiness\\CoreBusiness.csproj",
+              "RelativeToolTip": "CoreBusiness\\CoreBusiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T08:10:15.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ViewSelectedProductUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\ViewSelectedProductUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\ViewSelectedProductUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\ViewSelectedProductUseCase.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\ViewSelectedProductUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:50:36.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ViewProductsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\ViewProductsUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\ViewProductsUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\ViewProductsUseCase.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\ViewProductsUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:42:45.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\ProductsRepository.cs",
+              "RelativeToolTip": "WebApp\\Models\\ProductsRepository.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAA9wGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:30:55.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddProductUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\AddProductUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\AddProductUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\AddProductUseCase.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\AddProductUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:10:55.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeleteProduct.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\DeleteProduct.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\DeleteProduct.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\DeleteProduct.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\DeleteProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:36:40.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EditProductUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\EditProductUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\EditProductUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\ProductsUseCases\\EditProductUseCase.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\EditProductUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:32:57.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ViewCategoriesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\ViewCategoriesUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\CategoriesUseCases\\ViewCategoriesUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\ViewCategoriesUseCase.cs",
+              "RelativeToolTip": "UseCases\\CategoriesUseCases\\ViewCategoriesUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:54:01.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IViewCategoriesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IViewCategoriesUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\Interfaces\\IViewCategoriesUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IViewCategoriesUseCase.cs",
+              "RelativeToolTip": "UseCases\\Interfaces\\IViewCategoriesUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:29:33.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ViewSelectedCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\ViewSelectedCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\CategoriesUseCases\\ViewSelectedCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\ViewSelectedCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\CategoriesUseCases\\ViewSelectedCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:59:37.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IEditCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IEditCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\Interfaces\\IEditCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IEditCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\Interfaces\\IEditCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:41:45.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IViewSelectedCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IViewSelectedCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\Interfaces\\IViewSelectedCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IViewSelectedCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\Interfaces\\IViewSelectedCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:41:31.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\_Category.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Categories\\_Category.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\_Category.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Categories\\_Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:59:35.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "EditCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\EditCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\CategoriesUseCases\\EditCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\EditCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\CategoriesUseCases\\EditCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:02:30.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DeleteCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\DeleteCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\CategoriesUseCases\\DeleteCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\DeleteCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\CategoriesUseCases\\DeleteCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:04:48.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:59:33.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AddCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\AddCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\CategoriesUseCases\\AddCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\CategoriesUseCases\\AddCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\CategoriesUseCases\\AddCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:09:49.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T06:38:06.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:03:00.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IAddCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IAddCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\Interfaces\\IAddCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\UseCases\\Interfaces\\IAddCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\Interfaces\\IAddCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:48:56.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\CategoriesRepository.cs",
+              "RelativeToolTip": "WebApp\\Models\\CategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:19:13.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T12:47:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\pakhr\\OneDrive\\Desktop\\MVCCourse\\SuperMarketManagement\\WebApp\\Models\\Transaction.cs",
+              "RelativeToolTip": "WebApp\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:53:56.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
